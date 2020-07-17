@@ -7,6 +7,7 @@ import Homepage from './pages/HomePage/Homepage';
 import ShopPage from './pages/ShopPage/ShopPage';
 
 
+
 const App = () => {
   return (
     <div>
